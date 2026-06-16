@@ -1,0 +1,7 @@
+,mean,median,std,min,max
+ID,250.5,250.5,144.48,1.0,500.0
+Age,40.44,42.0,11.66,20.0,59.0
+Hours_of_Sleep,7.06,7.1,1.28,4.0,10.0
+Stress_Level,5.54,5.61,2.05,1.0,10.0
+Exercise_Frequency,2.62,3.0,1.7,0.0,5.0
+Work_Productivity,9.6,10.0,0.71,5.6,10.0
