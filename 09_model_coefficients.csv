@@ -1,0 +1,6 @@
+feature,coefficient
+Intercept,9.15
+Age,0.0
+Hours_of_Sleep,0.2
+Stress_Level,-0.2
+Exercise_Frequency,0.03
